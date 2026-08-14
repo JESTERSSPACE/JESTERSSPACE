@@ -15,3 +15,15 @@ $\Huge\color{#cf8fce}{\text{ JEST }}$ $\Huge\color{#ecb09f}{\text{ or }}$ $\Huge
 <p align="center">
 it　⋮　its　⋮　ask
 </p>
+
+<p align="center">
+links will go here links will go here
+</p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8dc33bb5-1255-4e0c-b46b-41cb39e8ba40" alt="hi" width="150"/> 
+  <img src="https://github.com/user-attachments/assets/915600b0-c38b-4776-a41c-86bcbcf7dc0d" alt="hi" width="150"/>  
+    <img src="https://github.com/user-attachments/assets/51a92a04-f475-4294-a322-3ec7f301f587" alt="hi" width="150"/> 
+    <img src="https://github.com/user-attachments/assets/4f5c23fd-7468-4467-a580-0c90dbf15825" alt="hi" width="150"/> 
+    <img src="https://github.com/user-attachments/assets/0077ec07-0ecf-423c-afe4-67064390644b" alt="hi" width="150"/> 
+</div>
