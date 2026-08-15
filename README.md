@@ -13,7 +13,7 @@ $\Huge\color{#cf8fce}{\text{ JEST }}$ $\Huge\color{#ecb09f}{\text{ or }}$ $\Huge
 </p>
 
 <p align="center">
-it　⋮　its　⋮　ask
+it　⋮　hymn　⋮　ask
 </p>
 
 <div align="center">
