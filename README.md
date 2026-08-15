@@ -17,7 +17,7 @@ it　⋮　its　⋮　ask
 </p>
 
 <p align="center">
-prns 　　‿　　 idk
+[prns pg](https://en.pronouns.page/@JJEST) 　　‿　　 idk
 </p>
 
 <div align="center">
