@@ -17,8 +17,11 @@ it　⋮　its　⋮　ask
 </p>
 
 <div align="center">
+  
 [prns.pg](https://en.pronouns.page/@JJEST) 　　‿　　 idk yet 
+  
 </div>
+
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8dc33bb5-1255-4e0c-b46b-41cb39e8ba40" alt="hi" width="150"/> 
