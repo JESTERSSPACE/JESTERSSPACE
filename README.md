@@ -16,10 +16,10 @@ $\Huge\color{#cf8fce}{\text{ JEST }}$ $\Huge\color{#ecb09f}{\text{ or }}$ $\Huge
 it　⋮　its　⋮　ask
 </p>
 
-<p align="center">
-[prns pg](https://en.pronouns.page/@JJEST) 　　‿　　 idk
-</p>
-
+<div align="center">
+[prns.pg](https://en.pronouns.page/@JJEST) 　　‿　　 idk yet 
+</div>
+<br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8dc33bb5-1255-4e0c-b46b-41cb39e8ba40" alt="hi" width="150"/> 
   <img src="https://github.com/user-attachments/assets/915600b0-c38b-4776-a41c-86bcbcf7dc0d" alt="hi" width="150"/>  
